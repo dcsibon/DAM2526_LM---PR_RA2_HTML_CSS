@@ -176,11 +176,11 @@ Incluye capturas y explicaciones breves del uso de:
 
 Incluye ejemplos de código mostrando:
 
-* selectores utilizados (tipo, clase, id, descendente…)
-* pseudoclases como `:hover`
-* Flexbox o Grid en alguna parte
-* uso de sombras (`box-shadow`) o cards
-* estilos de tus menús
+* selectores utilizados (tipo, clase, id, descendente…).
+* pseudoclases.
+* Flexbox o Grid en alguna parte.
+* uso de sombras (`box-shadow`) o cards.
+* estilos de tus menús.
 
 Explica qué has intentado conseguir con ese diseño.
 
@@ -206,10 +206,6 @@ Solo:
 * qué ocurre al pulsar el botón,
 * qué clase cambia,
 * cómo se mueve el menú con CSS.
-
-Ejemplo válido:
-
-> “El botón añade la clase `.active` al menú. Con CSS el menú pasa de `left: -230px` a `left: 0`, por eso se desliza.”
 
 ---
 
