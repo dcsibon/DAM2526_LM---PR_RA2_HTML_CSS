@@ -62,7 +62,7 @@ Sin modificar el HTML, debes conseguir mediante CSS que la cabecera se reorganic
 * En la **primera fila** se muestra solo el `<h1>`, centrado horizontalmente.
 * En la **segunda fila** se muestra el menú de navegación (`<nav class="main-nav">`), también centrado horizontalmente.
 * Ambos elementos forman parte del **mismo header**, solo cambia la distribución.
-* Entre la fila del <h1> y la fila del menú debe haber exactamente 30px de separación vertical *(No puedes añadir etiquetas nuevas en el HTML. Solo se permite modificar el CSS)*
+* Entre la fila del `h1` y la fila del menú debe haber exactamente 30px de separación vertical *(No puedes añadir etiquetas nuevas en el HTML. Solo se permite modificar el CSS)*
 
 Escribe el **CSS necesario** para conseguir esa estructura.
 
