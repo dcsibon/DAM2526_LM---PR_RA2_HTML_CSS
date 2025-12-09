@@ -1,4 +1,4 @@
-# **PRUEBA INDIVIDUAL – RA2 - HTML+CSS (Preguntas prácticas + Defensa de tu proyecto web)**
+# **PRUEBA INDIVIDUAL – RA2 - HTML+CSS**
 
 Durante esta sesión tendrás que realizar **tres ejercicios prácticos** y elaborar un **informe de evidencias**, donde deberás demostrar que comprendes lo que has construido en la Práctica 8.
 
