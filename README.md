@@ -39,38 +39,46 @@ h1 {
 
 ---
 
-### **1B. Ejercicio**
+### **1B. Ejercicio - Soluciona de dos formas diferentes**
 
 **Debes indicar dos formas diferentes de conseguir que el <h1> sí quede centrado visualmente en la cabecera.**
 
-⚠️ IMPORTANTE: Las dos soluciones deben ser:
+⚠️ **IMPORTANTE**:
 
-* Una usando Flexbox
+* Una solución usando Flexbox
 * Otra usando CSS Grid
 
 En cada caso debes escribir:
 
-* una breve explicación de la idea,
-* el CSS necesario para lograr el centrado.
+* Una breve explicación de la idea,
+* El CSS necesario para lograr el centrado.
 
 ---
 
-### **1C. Ejercicio**
+### **1C. Ejercicio – Convertir la cabecera en dos filas**
 
-Ahora quiero que **el `<h1>` y el menú de navegación estén en la misma línea**, y que **el texto del `<h1>` quede centrado en el espacio que le toca entre el borde izquierdo del header y el menú**.
+Sin modificar el HTML, debes conseguir mediante CSS que la cabecera se reorganice de la siguiente forma:
 
-Representación aproximada:
+* En la **primera fila** se muestra solo el `<h1>`, centrado horizontalmente.
+* En la **segunda fila** se muestra el menú de navegación (`<nav class="main-nav">`), también centrado horizontalmente.
+* Ambos elementos forman parte del **mismo header**, solo cambia la distribución.
+* Entre la fila del <h1> y la fila del menú debe haber exactamente 30px de separación vertical *(No puedes añadir etiquetas nuevas en el HTML. Solo se permite modificar el CSS)*
 
-```
-|            h1             ||    nav    |
-```
+Escribe el **CSS necesario** para conseguir esa estructura.
 
-Indica:
+---
 
-1. Cómo lo harías con **Flexbox**
-2. Opcional: cómo lo harías con **Grid (muy sencillo)**
+### **1D. Ejercicio – Dar relieve y separación visual al header**
 
-Debes escribir el CSS necesario.
+Se pretende que la cabecera del sitio (`.site-header`) tenga un aspecto más definido y se diferencie claramente del resto de la página.
+
+Debes conseguir, únicamente con CSS, que:
+
+* La cabecera tenga un **color de fondo** distinto al del resto de la página.
+* Haya una **separación visual clara** con el contenido que va debajo (por ejemplo, usando un borde inferior y una sombra).
+* El contenido del header tenga un **espaciado interior** adecuado para que no quede “pegado” a los bordes.
+
+Escribe las reglas CSS que aplicarías a `.site-header` para lograr ese efecto.
 
 ---
 
@@ -99,7 +107,7 @@ Cambia tu HTML para introducir el botón dentro de `header`.
 Indica el CSS necesario para maquetar este diseño usando:
 
 ✔ **Flexbox** (obligatorio)
-✧ Grid (opcional, si conoces cómo hacerlo)
+✧ Grid (opcional, pero lo valoraré positivamente si conoces cómo hacerlo)
 
 ---
 
