@@ -6,7 +6,7 @@ Puedes consultar tu código y realizar cambios directamente en tu proyecto para 
 
 ---
 
-# ✅ **Ejercicio 1**
+## ✅ **Ejercicio 1**
 
 Observa este HTML y CSS:
 
@@ -41,7 +41,7 @@ h1 {
 
 ### **1B. Ejercicio - Soluciona de dos formas diferentes**
 
-**Debes indicar dos formas diferentes de conseguir que el <h1> sí quede centrado visualmente en la cabecera.**
+**Debes indicar dos formas diferentes de conseguir que el `h1` si quede centrado visualmente en la cabecera.**
 
 ⚠️ **IMPORTANTE**:
 
@@ -82,7 +82,7 @@ Escribe las reglas CSS que aplicarías a `.site-header` para lograr ese efecto.
 
 ---
 
-# ✅ **Ejercicio 2 — Reorganización del header con tres elementos**
+## ✅ **Ejercicio 2 — Reorganización del header con tres elementos**
 
 Ahora debes incluir **también el botón del menú lateral** dentro del `<header>`.
 
@@ -111,7 +111,7 @@ Indica el CSS necesario para maquetar este diseño usando:
 
 ---
 
-# ✅ **Ejercicio 3 — Miniaturas, zoom y enlace a la imagen original**
+## ✅ **Ejercicio 3 — Miniaturas, zoom y enlace a la imagen original**
 
 En tu **galería de imágenes**, debes realizar lo siguiente:
 
@@ -139,7 +139,7 @@ Tu tarea consiste en:
 
 ---
 
-# ✅ **Ejercicio 4 — Informe de evidencias del proyecto (defensa técnica simple)**
+## ✅ **Ejercicio 4 — Informe de evidencias del proyecto (defensa técnica simple)**
 
 Debes elaborar un **documento PDF** o **Markdown** donde expliques y muestres capturas de tu propia web.
 
@@ -147,7 +147,7 @@ Este informe debe incluir:
 
 ---
 
-## **4.1. Introducción**
+### **4.1. Introducción**
 
 Explica en 4–6 líneas:
 
@@ -157,7 +157,7 @@ Explica en 4–6 líneas:
 
 ---
 
-## **4.2. Evidencias de HTML5**
+### **4.2. Evidencias de HTML5**
 
 Incluye capturas y explicaciones breves del uso de:
 
@@ -172,7 +172,7 @@ Incluye capturas y explicaciones breves del uso de:
 
 ---
 
-## **4.3. Evidencias de CSS**
+### **4.3. Evidencias de CSS**
 
 Incluye ejemplos de código mostrando:
 
@@ -186,7 +186,7 @@ Explica qué has intentado conseguir con ese diseño.
 
 ---
 
-## **4.4. Fuentes utilizadas**
+### **4.4. Fuentes utilizadas**
 
 Debes explicar:
 
@@ -198,7 +198,7 @@ Incluye fragmentos de código.
 
 ---
 
-## **4.5. Menú lateral: breve explicación**
+### **4.5. Menú lateral: breve explicación**
 
 No tienes que explicar JavaScript en detalle.
 Solo:
@@ -213,7 +213,7 @@ Ejemplo válido:
 
 ---
 
-## **4.6. Conclusión personal**
+### **4.6. Conclusión personal**
 
 Explica:
 
