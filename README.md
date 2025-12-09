@@ -21,6 +21,12 @@ Observa este HTML y CSS:
 ```
 
 ```css
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 h1 {
   text-align: center;
 }
@@ -29,14 +35,23 @@ h1 {
 ### **1A. Pregunta**
 
 **¿Por qué NO se centra el texto del `<h1>` en este caso? Explícalo con tus palabras.**
+(por qué visual y estructuralmente no aparece centrado entre el borde izquierdo y el menú)
 
 ---
 
 ### **1B. Ejercicio**
 
-**Indica cómo podrías centrar el contenido de `<h1>` de dos formas diferentes**.
+**Debes indicar dos formas diferentes de conseguir que el <h1> sí quede centrado visualmente en la cabecera.**
 
-Debes escribir el CSS necesario.
+⚠️ IMPORTANTE: Las dos soluciones deben ser:
+
+* Una usando Flexbox
+* Otra usando CSS Grid
+
+En cada caso debes escribir:
+
+* una breve explicación de la idea,
+* el CSS necesario para lograr el centrado.
 
 ---
 
