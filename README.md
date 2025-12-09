@@ -224,7 +224,7 @@ Explica:
 
 Enlace al README de un repositorio de GitHub dónde lo contestes y expliques todo.
 
-* **IMPORTANTE!!** Antes de las 14:40 debes entregar el enlace como mínimo con un COMMIT con el documento bastante avanzado.
-* La entrega final de esta prueba la podrás realizar el jueves, dónde tendrás 1h más para agregar contenido al README que entregarás *(PERO NO MODIFICAR, NI CORREGIR LO REALIZADO EN EL DÍA DE HOY)*
+* **IMPORTANTE!!** Antes de las 14:40 debes entregar el enlace como mínimo con un COMMIT con el documento bastante avanzado (mínimo los ejercicios 1, 2 y 3).
+* La entrega final de esta prueba la podrás realizar el jueves, dónde tendrás 1h más para agregar contenido al README que entregarás *(PERO NO MODIFICAR, NI CORREGIR LO REALIZADO EN EL DÍA DE HOY A NIVEL DE CONTENIDO... DE FORMATO SI PODEÍS MEJORARLO)*
 
 ---
